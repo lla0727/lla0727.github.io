@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>图一乐</title>
   
-  
+  <subtitle>组会记录</subtitle>
   <link href="http://lla0727.github.io/atom.xml" rel="self"/>
   
   <link href="http://lla0727.github.io/"/>
