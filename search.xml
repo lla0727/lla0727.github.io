@@ -51,4 +51,21 @@
 <p>这篇文章的详细内容后面会细聊</p>
 ]]></content>
   </entry>
+  <entry>
+    <title>第二周组会记录</title>
+    <url>/2023/01/19/%E7%AC%AC%E4%BA%8C%E5%91%A8%E7%BB%84%E4%BC%9A%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<h1 id="第二周组会记录"><a href="#第二周组会记录" class="headerlink" title="第二周组会记录"></a>第二周组会记录</h1><h2 id="1-学习GRU"><a href="#1-学习GRU" class="headerlink" title="1.	学习GRU"></a>1.	学习GRU</h2><p><a href="https://www.bilibili.com/video/BV1mf4y157N2/?spm_id_from=333.999.0.0&vd_source=eea9dd9f4f66e9c14e68438deca491aa">https://www.bilibili.com/video/BV1mf4y157N2/?spm_id_from=333.999.0.0&amp;vd_source=eea9dd9f4f66e9c14e68438deca491aa</a></p>
+<h2 id="2-学习LSTM"><a href="#2-学习LSTM" class="headerlink" title="2.	学习LSTM"></a>2.	学习LSTM</h2><p><a href="https://www.bilibili.com/video/BV1JU4y1H7PC/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV1JU4y1H7PC/?spm_id_from=333.999.0.0</a></p>
+<h2 id="3-解答问题"><a href="#3-解答问题" class="headerlink" title="3.	解答问题"></a>3.	解答问题</h2><p>BCI范式：MI运动成像</p>
+<p>数据集：BCI2000+自己采集的</p>
+<p>数据处理方法：很难比较出最好的方法，各有侧重点。</p>
+<ul>
+<li>《Deep learning techniques for classification of electroencephalogram (EEG) motor imagery (MI) signals: a review》 CCF-C</li>
+<li>《Deep learning for motor imagery EEG-based classification: A review》 中科院SCI二区</li>
+</ul>
+<h2 id="4-个人网站"><a href="#4-个人网站" class="headerlink" title="4.	个人网站"></a>4.	个人网站</h2><p>个人Blog (lla0727.github.io)</p>
+<h2 id="5-MNE库"><a href="#5-MNE库" class="headerlink" title="5.	MNE库"></a>5.	MNE库</h2><p>MNE — MNE 1.3.0 documentation</p>
+<p><a href="https://mne.tools/stable/index.html">https://mne.tools/stable/index.html</a></p>
+]]></content>
+  </entry>
 </search>
